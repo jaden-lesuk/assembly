@@ -1,0 +1,1 @@
+The code in hello doen't work use the code in the newhello directory
